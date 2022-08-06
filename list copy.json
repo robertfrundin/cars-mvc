@@ -1,0 +1,6 @@
+{
+  "0": { "id": "0", "brand": "Audi", "model": "A4", "year": "2001", "mileage": "150000", "price": "6000", "image": "a4.jpg" },
+  "1": { "id": "1", "brand": "Bentley", "model": "Continental", "year": "2010", "mileage": "150000", "price": "30000", "image": "cont.jpg" },
+  "2": { "id": "2", "brand": "Chevrolet", "model": "Cruze", "year": "2014", "mileage": "150000", "price": "5500", "image": "cruze.jpg" },
+  "3": { "id": "3", "brand": "Nissan", "model": "Z-350", "year": "2007", "mileage": "150000", "price": "11000", "image": "z350.jpg" }
+}
